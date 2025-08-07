@@ -27,6 +27,6 @@
 
 ###
 
-<p align="left">Sou um estudante de programação apaixonado por jogos e que está em busca de um estágio na área de desenvolvimento e tecnologia.<br><br>Cursei Sistemas de Informação e estou atualmente estudando Desenvolvimento de Jogos Digitais.<br><br>Meu conhecimento técnico inclui habilidades básicas em linguagens de programação como C# e Java, além de experiência em desenvolvimento de jogos utilizando Unity.<br><br>Meu objetivo é aplicar meus conhecimentos e habilidades em um ambiente profissional de desenvolvimento de jogos, contribuindo para projetos inovadores, além de aprender com profissionais experientes da área.</p>
+<p align="left">Sou formado de programação apaixonado por jogos e que está em busca de um estágio/ emprego na área de desenvolvimento e tecnologia.<br><br>Cursei Sistemas de Informação e estou atualmente estudando Desenvolvimento de Jogos Digitais.<br><br>Meu conhecimento técnico inclui habilidades básicas em linguagens de programação como C# e Java, além de experiência em desenvolvimento de jogos utilizando Unity.<br><br>Meu objetivo é aplicar meus conhecimentos e habilidades em um ambiente profissional de desenvolvimento de jogos, contribuindo para projetos inovadores, além de aprender com profissionais experientes da área.</p>
 
 ###
